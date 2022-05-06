@@ -1,7 +1,8 @@
 # Noise
-Experiments with noise
+Experiments with noise using Jetpack Compose Canvas.  
+See MainActivity for code :)
 
-Simple algorithm  
+Simplex algorithm  
 ![simplex](https://user-images.githubusercontent.com/6065286/167195119-794d4c37-00c3-459a-b4c0-5260d53c1f42.gif)
 
 Perlin algorithm   
